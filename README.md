@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+Physicist turned Data Scientist. 
+
+## Programming lenguajes ## 
+Python | SQL
+
+## Technologies ##
+
+BigData: Docker | Hadoop | Hue/Hive | Spark 
+
+Visualization : PowerBI | Streamlit
+
+Machine learning: sci-kit learn | statsmodel | tensorflow. Experience with decision trees, support vector machine, time series (ARIMA, Prophet), recommendation systems, neural networks and regressor algorithms.
+
+## Mathematical skills ##
+
+Probability Theory | Linear Algebra | Differential Equations | Matrix Analysis | Stochastic Process
+
+
 <!--
 **r2flows/r2flows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
