@@ -2,7 +2,7 @@
 
 Physicist turned Data Scientist. 
 
-## Programming lenguajes ## 
+## Programming languages ## 
 Python | SQL
 
 ## Technologies ##
